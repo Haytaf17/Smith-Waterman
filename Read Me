@@ -1,0 +1,2 @@
+Compile :	g++ -std=c++11 -Wall -Werror  smith-waterman.cpp -o smith-waterman
+Run :	./smith-waterman <input_file> <output_file> match mismatch gap
